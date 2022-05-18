@@ -9,7 +9,7 @@ Click on the code button and download it via .zip file, then bring the extracted
 [Get the actual vanilla version here.](https://huds.tf/site/s-Flame-Hud)
 
 # To-dos
-- [ ] Adding "more" customizations. (fonts, health styles,...)
+- [ ] Adding "more" customizations than what FlameHud has.
 - [ ] Major UI fixes.
 - [ ] GameMode fixes.
 - [ ] Checking if the HUD is acting okay on other resolutions. (Optimized for 1366x768 only. Oops.)

@@ -1,6 +1,6 @@
 # FlameHUDX (Work in progress...)
-Just FlameHUD, but with a bunch of bug fixes and more customizations without ruining the original experience.
-Version: v.y1 
+> Just FlameHUD, but with a bunch of bug fixes and more customizations without ruining the original experience.
+Version: v.y1 ALPHA
 (The updates goes by until it forms "yyxy"...)
 
 # Installation

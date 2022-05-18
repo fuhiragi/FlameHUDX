@@ -1,8 +1,9 @@
-# FlameHUDX
+# FlameHUDX (Work in progress...)
 Just FlameHUD, but with a bunch of bug fixes and more customizations without ruining the original experience.
 >(I HAVEN'T ASKED THE PERMISSION TO CONTINUE THE HUD DEVELOPMENT YET. PLEASE USE AT YOUR OWN RISK.)
 
-**(WIP, ver.Y1)**
+Version: v.y1 
+(The updates goes by until it forms "yyxy"...)
 
 # Installation
 Click on the code button and download it via .zip file, then bring the extracted folder to (tfinstallfolder)/tf/custom.

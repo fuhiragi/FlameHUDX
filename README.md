@@ -12,7 +12,7 @@ To download, click on the code button and download it via .zip file.
 
 Credits:
 - Flame (Creator of the HUD.)
-- Hypnotize (For continuing the maintain of the HUD.)
+- Hypnotize (Maintaining HUDs as always.) and some of his assets.
 - JarateKing's HUD references.
 - swissolo's Custom Match Hud (I will use this until I fully understand about the match hud editing.)
 - Some other HUDs inspirations like FlawHUD, PeachHUD,...

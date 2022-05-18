@@ -8,13 +8,14 @@ Version: v.y1
 # Installation
 Click on the code button and download it via .zip file, then bring the extracted folder to (tfinstallfolder)/tf/custom.
 
-[Don't like this version? Get the actual vanilla one here.](https://huds.tf/site/s-Flame-Hud)
+[Get the actual vanilla version here.](https://huds.tf/site/s-Flame-Hud)
 
 # To-dos
 - [ ] Adding more customizations. (fonts, health styles,...)
 - [ ] UI fixes.
 - [ ] GameMode fixes.
 - [ ] Resolution support.
+- [ ] Submitting HUD to huds.tf and GameBanana.
 
 # Credit(s)
 - Flame (Creator of the HUD.)

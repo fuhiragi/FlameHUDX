@@ -11,4 +11,5 @@ Credits:
 - Flame (Creator of the HUD.)
 - Hypnotize (For continuing the maintain of the HUD.)
 - JarateKing's HUD references.
+- swissolo's Custom Match Hud (I will use this until I fully understand about the match hud editing.)
 - Some other HUDs inspirations like FlawHUD, PeachHUD,...

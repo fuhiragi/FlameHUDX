@@ -60,8 +60,8 @@
 	CustomCrosshairBlurShadow
 	{
 		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshairBlurShadow" "enabled" "1" "xpos" "0" "ypos" "0" "zpos" "-1" "wide" "f0" "tall" "f0" "textAlignment" "center" "pin_to_sibling" "CustomCrosshair"
-		"labelText"	"?"
-		"font"		"Size:18 | Blur:ON"
+		"labelText"	""
+		"font"		"Size:?? | Blur:??"
 		"fgcolor"	"0 0 0 255"
 	}
 }

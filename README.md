@@ -12,7 +12,7 @@ Click on the code button and download it via .zip file, then bring the extracted
 - [ ] Adding more customizations. (fonts, health styles,...)
 - [ ] UI fixes.
 - [ ] GameMode fixes.
-- [ ] Resolution support.
+- [ ] Checking if the HUD is acting okay on other resolutions. (Legit doing this in 1366x768, where most elements are ruined.)
 - [ ] Submitting HUD to huds.tf and GameBanana.
 
 # Credit(s)

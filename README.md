@@ -4,7 +4,8 @@ Just FlameHUD, but with a bunch of bug fixes and more customizations without rui
 
 **(WIP, ver.Y1)**
 
-To download, click on the code button and download it via .zip file.
+# Installation
+Click on the code button and download it via .zip file, then bring the extracted folder to (tfinstallfolder)/tf/custom.
 
 [Don't like this version? Get the actual vanilla one here.](https://huds.tf/site/s-Flame-Hud)
 

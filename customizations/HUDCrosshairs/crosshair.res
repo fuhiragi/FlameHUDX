@@ -8,7 +8,7 @@
 		// "visible" "1" = Enabled  "visible" "0" = Disabled
 		//=========================================================================
 		
-		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center"
+		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center"
 		
 		//=========================================================================
 		// CROSSHAIR TYPE
@@ -18,7 +18,7 @@
 		// Checkout the different options in the TF2Crosshairs.png
 		//=========================================================================
 		
-		"labelText"	"?"
+		"labelText"	""
 		
 		//=========================================================================
 		// CROSSHAIR SIZE & PROPERTIES
@@ -27,7 +27,7 @@
 		// The Outline can be toggled between ON and OFF
 		//=========================================================================
 		
-		"font"		"Size:18 | Outline:OFF"
+		"font"		"Size:?? | Outline:??"
 		
 		//=========================================================================
 		// CROSSHAIR POSITION
@@ -50,13 +50,6 @@
 		"fgcolor"	"255 255 255 255"
 	}
 	
-	
-	
-	
-	
-
-
-
 	//=======================================================================================================
 	// HUD CROSSHAIR BLUR SHADOW
 	//-------------------------------------------------------------------------------------------------------

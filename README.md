@@ -1,6 +1,4 @@
-# FlameHUDX (Work in progress...)
-
-Version: v.y1 ALPHA
+![banner](https://user-images.githubusercontent.com/102655447/169249226-c0392d07-4471-4713-866b-b114aeaa654a.png)
 
 # Installation
 Click on the code button and download it via .zip file, then bring the extracted folder to (tfinstallfolder)/tf/custom.

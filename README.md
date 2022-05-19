@@ -1,7 +1,9 @@
 ![banner](https://user-images.githubusercontent.com/102655447/169249226-c0392d07-4471-4713-866b-b114aeaa654a.png)
 
+An enhanced version of FlameHUD, for FlameHUD lovers.
+
 # Installation
-Click on the code button and download it via .zip file, then bring the extracted folder to (tfinstallfolder)/tf/custom.
+Click on the code button and download it via .zip file, then bring the extracted folder to ../tf/custom.
 
 [Get the actual vanilla version here.](https://huds.tf/site/s-Flame-Hud)
 

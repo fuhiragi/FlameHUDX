@@ -1,5 +1,4 @@
 # FlameHUDX (Work in progress...)
-> Just FlameHUD, but with.. new things. That's it.
 
 Version: v.y1 ALPHA
 

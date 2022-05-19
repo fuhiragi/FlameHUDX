@@ -12,7 +12,6 @@ Click on the code button and download it via .zip file, then bring the extracted
 - [ ] Major UI fixes.
 - [ ] GameMode fixes. (Only tested in Casual and MVM.)
 - [ ] Checking if the HUD is acting okay on other resolutions. (Optimized for 1366x768 only. Oops.)
-- [ ] Submitting HUD to... what.
 
 # Credit(s)
 - Flame (Creator of the HUD.)

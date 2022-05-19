@@ -1,4 +1,4 @@
-#base "../scripts/crosshairs/font/Crosshairs.res"
+#base "../#customizations/HUDCrosshairs/crosshair.res
 //
 // TRACKER SCHEME RESOURCE FILE
 //

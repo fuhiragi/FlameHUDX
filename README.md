@@ -1,5 +1,5 @@
 # FlameHUDX (Work in progress...)
-> Just FlameHUD, but with a bunch of bug fixes and more customizations without ruining the original experience.
+> Just FlameHUD, but with.. new things. That's it.
 
 Version: v.y1 ALPHA
 

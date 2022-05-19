@@ -5,7 +5,7 @@ An enhanced version of FlameHUD, for FlameHUD lovers.
 # Installation
 Click on the code button and download it via .zip file, then bring the extracted folder to ../tf/custom.
 
-[Get the actual vanilla version here.](https://huds.tf/site/s-Flame-Hud)
+[Get the vanilla version here.](https://huds.tf/site/s-Flame-Hud)
 
 # To-dos
 - [ ] Adding "more" customizations than what FlameHud has.
